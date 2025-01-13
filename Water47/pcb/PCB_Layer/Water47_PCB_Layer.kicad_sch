@@ -425,7 +425,6 @@
     )
   )
 
-
   (junction (at 185.42 189.23) (diameter 0) (color 0 0 0 0)
     (uuid 00a16c3d-9788-4f90-bfc6-f54bf7dce076)
   )
@@ -1954,7 +1953,7 @@
     (uuid 4aa4644f-18e3-4962-ba5d-249e3f9e24b0)
     (property "Reference" "SW40" (id 0) (at 99.06 175.133 0))
     (property "Value" "Alt(L)" (id 1) (at 99.06 177.4444 0))
-    (property "Footprint" "multifeb13_kbd_KiCad_lib:Kailh_Choc_V2_1.25u_wo_anker" (id 2) (at 99.06 176.53 0)
+    (property "Footprint" "multifeb13_kbd_KiCad_lib:Kailh_Choc_V2_1.5u_wo_anker" (id 2) (at 99.06 176.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 99.06 176.53 0)
@@ -2004,7 +2003,7 @@
     (uuid 534da0b5-be60-4e98-9fd4-84ec0df6de7f)
     (property "Reference" "SW41" (id 0) (at 119.38 175.133 0))
     (property "Value" "Shift(C)" (id 1) (at 119.38 177.4444 0))
-    (property "Footprint" "multifeb13_kbd_KiCad_lib:Kailh_Choc_V2_2u_wo_anker" (id 2) (at 119.38 176.53 0)
+    (property "Footprint" "multifeb13_kbd_KiCad_lib:Kailh_Choc_V2_1.75u_wo_anker" (id 2) (at 119.38 176.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 119.38 176.53 0)
@@ -2384,7 +2383,7 @@
     (uuid 7f68f2f9-1a40-4e2d-bda1-32170086ae6f)
     (property "Reference" "SW43" (id 0) (at 160.02 175.133 0))
     (property "Value" "Enter" (id 1) (at 160.02 177.4444 0))
-    (property "Footprint" "multifeb13_kbd_KiCad_lib:Kailh_Choc_V2_2u_wo_anker" (id 2) (at 160.02 176.53 0)
+    (property "Footprint" "multifeb13_kbd_KiCad_lib:Kailh_Choc_V2_1.75u_wo_anker" (id 2) (at 160.02 176.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 160.02 176.53 0)
@@ -3054,7 +3053,7 @@
     (uuid d5a950b8-c579-4504-be73-5424804140b0)
     (property "Reference" "SW44" (id 0) (at 198.12 175.133 0))
     (property "Value" "←" (id 1) (at 198.12 177.4444 0))
-    (property "Footprint" "multifeb13_kbd_KiCad_lib:Kailh_Choc_V2_1u_wo_anker" (id 2) (at 198.12 176.53 0)
+    (property "Footprint" "multifeb13_kbd_KiCad_lib:Kailh_Choc_V2_1.25u_wo_anker" (id 2) (at 198.12 176.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 198.12 176.53 0)
@@ -3799,19 +3798,19 @@
       (reference "SW39") (unit 1) (value "Win(L)") (footprint "multifeb13_kbd_KiCad_lib:Kailh_Choc_V2_1.25u_wo_anker")
     )
     (path "/4aa4644f-18e3-4962-ba5d-249e3f9e24b0"
-      (reference "SW40") (unit 1) (value "Alt(L)") (footprint "multifeb13_kbd_KiCad_lib:Kailh_Choc_V2_1.25u_wo_anker")
+      (reference "SW40") (unit 1) (value "Alt(L)") (footprint "multifeb13_kbd_KiCad_lib:Kailh_Choc_V2_1.5u_wo_anker")
     )
     (path "/534da0b5-be60-4e98-9fd4-84ec0df6de7f"
-      (reference "SW41") (unit 1) (value "Shift(C)") (footprint "multifeb13_kbd_KiCad_lib:Kailh_Choc_V2_2u_wo_anker")
+      (reference "SW41") (unit 1) (value "Shift(C)") (footprint "multifeb13_kbd_KiCad_lib:Kailh_Choc_V2_1.75u_wo_anker")
     )
     (path "/561b7eb2-183e-43c1-a564-c265b8f3c76f"
       (reference "SW42") (unit 1) (value "Fn(C)") (footprint "multifeb13_kbd_KiCad_lib:Kailh_Choc_V2_1.25u_wo_anker")
     )
     (path "/7f68f2f9-1a40-4e2d-bda1-32170086ae6f"
-      (reference "SW43") (unit 1) (value "Enter") (footprint "multifeb13_kbd_KiCad_lib:Kailh_Choc_V2_2u_wo_anker")
+      (reference "SW43") (unit 1) (value "Enter") (footprint "multifeb13_kbd_KiCad_lib:Kailh_Choc_V2_1.75u_wo_anker")
     )
     (path "/d5a950b8-c579-4504-be73-5424804140b0"
-      (reference "SW44") (unit 1) (value "←") (footprint "multifeb13_kbd_KiCad_lib:Kailh_Choc_V2_1u_wo_anker")
+      (reference "SW44") (unit 1) (value "←") (footprint "multifeb13_kbd_KiCad_lib:Kailh_Choc_V2_1.25u_wo_anker")
     )
     (path "/5b1126e5-75d1-4c04-9289-bc0ec07f3a86"
       (reference "SW45") (unit 1) (value "↓") (footprint "multifeb13_kbd_KiCad_lib:Kailh_Choc_V2_1u_wo_anker")
