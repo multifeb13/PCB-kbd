@@ -4136,7 +4136,7 @@
   (gr_line (start 84 159.7) (end 340 159.7) (layer "Edge.Cuts") (width 0.1) (tstamp 757d518d-532f-4339-ba78-1a307621a3bb))
   (gr_line (start 340 83.2) (end 84 83.2) (layer "Edge.Cuts") (width 0.1) (tstamp 8a67f7ed-1e38-49f5-a7ca-89dad99d9f3f))
   (gr_arc (start 84 159.7) (mid 82.585786 159.114214) (end 82 157.7) (layer "Edge.Cuts") (width 0.1) (tstamp e86e5bfd-7add-4eec-9a66-cb982fdef1d2))
-  (gr_text "Water47 ver1.0 @PCB Designed by multifeb13" (at 337.5 153 90) (layer "B.SilkS") (tstamp ea5823db-c85f-4a54-be2a-f82cf3d35419)
+  (gr_text "Water47 ver1.0 @PCB Designed by multifeb13" (at 339 153 90) (layer "B.SilkS") (tstamp ea5823db-c85f-4a54-be2a-f82cf3d35419)
     (effects (font (size 1 1) (thickness 0.125)) (justify right mirror))
   )
   (dimension (type aligned) (layer "Cmts.User") (tstamp 4d571e95-0528-4586-9c0e-7b3d32efd36e)
