@@ -86,7 +86,6 @@
     (at 180.975 150.01875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/534da0b5-be60-4e98-9fd4-84ec0df6de7f")
     (attr through_hole)
     (fp_text reference "SW41" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -111,7 +110,6 @@
     (at 273.84375 111.91875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/17a67e03-629d-4be8-938b-75dddc6afdbd")
     (attr through_hole)
     (fp_text reference "SW23" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -136,7 +134,6 @@
     (at 245.26875 130.96875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/2b908a7a-23e4-4364-bc41-b4b02c19b11d")
     (attr through_hole)
     (fp_text reference "SW33" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -161,7 +158,6 @@
     (at 266.7 150.01875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/d5a950b8-c579-4504-be73-5424804140b0")
     (attr through_hole)
     (fp_text reference "SW44" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -186,7 +182,6 @@
     (at 288.13125 150.01875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/5b1126e5-75d1-4c04-9289-bc0ec07f3a86")
     (attr through_hole)
     (fp_text reference "SW45" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -211,7 +206,6 @@
     (at 116.68125 92.86875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/26d1c079-84b9-443c-9aab-5012fec80b79")
     (attr through_hole)
     (fp_text reference "SW2" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -236,7 +230,6 @@
     (at 264.31875 130.96875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/fc48c7ee-7f86-47f9-9432-b72c1d8fd8bd")
     (attr through_hole)
     (fp_text reference "SW34" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -261,7 +254,6 @@
     (at 211.93125 92.86875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/f44cb5f3-e39f-4345-8a59-b9685dd92bb2")
     (attr through_hole)
     (fp_text reference "SW7" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -286,7 +278,6 @@
     (at 135.73125 92.86875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/1ba0fb79-40e6-4387-8e3e-c4589bc2b09d")
     (attr through_hole)
     (fp_text reference "SW3" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -311,7 +302,6 @@
     (at 209.55 150.01875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/561b7eb2-183e-43c1-a564-c265b8f3c76f")
     (attr through_hole)
     (fp_text reference "SW42" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -336,7 +326,6 @@
     (at 307.18125 92.86875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/88794952-a819-4809-8879-5db3c449e8c3")
     (attr through_hole)
     (fp_text reference "SW12" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -361,7 +350,6 @@
     (at 326.23125 130.96875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/2fd33739-8990-41da-8a1b-dfc4552f126e")
     (attr through_hole)
     (fp_text reference "SW37" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -386,7 +374,6 @@
     (at 104.775 130.96875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/7b35b51b-2a46-40d9-8f7c-cc1b1e4e0771")
     (attr through_hole)
     (fp_text reference "SW26" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -411,7 +398,6 @@
     (at 216.69375 111.91875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/c4b93c3b-6e2d-46e3-aec9-059c08bb1f32")
     (attr through_hole)
     (fp_text reference "SW20" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -436,7 +422,6 @@
     (at 326.23125 92.86875 180)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/7ae74b53-b22d-4da7-b3cf-d5570a3e35dc")
     (attr through_hole)
     (fp_text reference "SW13" (at 7 8.1 180) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -456,31 +441,29 @@
     (fp_line (start -9.525 9.525) (end 9.525 9.525) (layer "F.Fab") (width 0.15) (tstamp f6951753-8e3f-41af-9aa6-fa065abf8a06))
   )
 
-  (footprint "kbd_Hole:m2_Screw_Hole" (layer "F.Cu")
-    (tedit 5CAF8CEE) (tstamp 4d18c607-306e-4e64-8e7a-c4d15b9cd289)
-    (at 85 87.2)
+  (footprint "kbd_Hole:m2_Spacer_Hole_hex" (layer "F.Cu")
+    (tedit 5F216F4B) (tstamp 4d18c607-306e-4e64-8e7a-c4d15b9cd289)
+    (at 85 87.2 90)
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
-    (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
+    (property "Sheetfile" "Water47_Top.kicad_sch")
     (property "Sheetname" "")
     (path "/17fe6c74-7093-4ce3-b0e5-cd6b76f5155b")
-    (autoplace_cost90 1)
     (attr exclude_from_pos_files)
-    (fp_text reference "H1" (at 0 -3.2) (layer "F.Fab")
+    (fp_text reference "H1" (at 0 -3.2 90) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 7c2ff835-8483-4348-b9b8-2b80e45afa78)
+      (tstamp a3754a55-1cb5-497a-a912-4c596c7dc8cc)
     )
-    (fp_text value "MountingHole" (at 0 3.2) (layer "F.Fab") hide
+    (fp_text value "MountingHole" (at 0 3.2 90) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 1d718e63-e01f-4331-9992-12a9469f1106)
+      (tstamp f2cb048d-8c5a-4a86-9788-06dad3bcec7d)
     )
-    (fp_text user "${REFERENCE}" (at 0.3 0) (layer "F.Fab") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 2ce0016d-0554-4f5e-8391-907045e2d48b)
-    )
-    (fp_circle (center 0 0) (end 2.2 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp 374cce7e-3f57-4d28-93ce-1372e1e32da4))
-    (fp_circle (center 0 0) (end 2.45 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp b143eeef-9454-4442-9eb1-b2c155e3168b))
-    (pad "" np_thru_hole circle locked (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask) (tstamp 7f437b2d-fca6-484a-915b-7a0241227a11))
+    (fp_line (start 1.2 2.15) (end 2.4 0) (layer "Edge.Cuts") (width 0.1) (tstamp 16a11d2f-7a0a-4c8b-bcbb-c0d4667cac50))
+    (fp_line (start -1.2 -2.15) (end -2.4 0) (layer "Edge.Cuts") (width 0.1) (tstamp 23de8e3e-37e0-4d69-890f-13ac4ef6e770))
+    (fp_line (start 2.4 0) (end 1.2 -2.15) (layer "Edge.Cuts") (width 0.1) (tstamp 423774e3-fda7-4b23-85a8-a861e15bf089))
+    (fp_line (start 1.2 -2.15) (end -1.2 -2.15) (layer "Edge.Cuts") (width 0.1) (tstamp 4290a742-ee3c-458e-85f8-583af22a88db))
+    (fp_line (start -1.2 2.15) (end 1.2 2.15) (layer "Edge.Cuts") (width 0.1) (tstamp 8747abfe-5a88-4bca-ac88-183a19c30a4c))
+    (fp_line (start -2.4 0) (end -1.2 2.15) (layer "Edge.Cuts") (width 0.1) (tstamp cbfabdb7-abfe-44b5-9c55-dc6381b85f0b))
   )
 
   (footprint "kbd_SW_Hole:SW_Hole_1.25u" (layer "F.Cu")
@@ -488,7 +471,6 @@
     (at 123.825 150.01875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/59dc2fcb-ab86-4f2a-9e5f-2899676d13f3")
     (attr through_hole)
     (fp_text reference "SW39" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -513,7 +495,6 @@
     (at 283.36875 130.96875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/e86b4eac-7d00-47c8-a6ee-cc6a77ed3727")
     (attr through_hole)
     (fp_text reference "SW35" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -538,7 +519,6 @@
     (at 150.01875 130.96875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/d2d1cd76-fdc5-460a-a699-b1c70f82a772")
     (attr through_hole)
     (fp_text reference "SW28" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -563,7 +543,6 @@
     (at 154.78125 92.86875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/f8086683-ffef-4ad0-aab0-c61c9a9172f6")
     (attr through_hole)
     (fp_text reference "SW4" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -588,7 +567,6 @@
     (at 307.18125 150.01875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/e1afef16-a91d-42b5-8bad-b911051dce71")
     (attr through_hole)
     (fp_text reference "SW46" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -613,7 +591,6 @@
     (at 235.74375 111.91875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/2fd5541b-87b1-4dfb-9519-d23bf42178dd")
     (attr through_hole)
     (fp_text reference "SW21" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -638,7 +615,6 @@
     (at 319.0875 111.91875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/8a822f09-451d-4a52-9336-acd65fc259f7")
     (attr through_hole)
     (fp_text reference "SW25" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -663,7 +639,6 @@
     (at 150.01875 150.01875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/4aa4644f-18e3-4962-ba5d-249e3f9e24b0")
     (attr through_hole)
     (fp_text reference "SW40" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -688,7 +663,6 @@
     (at 250.03125 92.86875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/17ccd614-e762-4b40-b633-ae5dc25aa67f")
     (attr through_hole)
     (fp_text reference "SW9" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -713,7 +687,6 @@
     (at 304.8 130.96875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/b4f1e785-9ca5-4cd9-aa26-ef14a3053ab0")
     (attr through_hole)
     (fp_text reference "SW36" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -733,30 +706,29 @@
     (fp_line (start -11.90625 -9.525) (end -11.90625 9.525) (layer "F.Fab") (width 0.15) (tstamp acb3f28f-5387-47c1-ae57-7032c0ee1c78))
   )
 
-  (footprint "kbd_Hole:m2_Screw_Hole" (layer "F.Cu")
-    (tedit 5CAF8CEE) (tstamp 77a936e7-bd13-4102-aaf2-fde6e77796cd)
-    (at 85 155.7)
+  (footprint "kbd_Hole:m2_Spacer_Hole_hex" (layer "F.Cu")
+    (tedit 5F216F4B) (tstamp 77a936e7-bd13-4102-aaf2-fde6e77796cd)
+    (at 85 155.7 90)
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
-    (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
+    (property "Sheetfile" "Water47_Top.kicad_sch")
     (property "Sheetname" "")
     (path "/bbde9b31-2ca1-42cc-a23f-bd08fc375c76")
     (attr exclude_from_pos_files)
-    (fp_text reference "H2" (at 0 -3.2) (layer "F.Fab")
+    (fp_text reference "H2" (at 0 -3.2 90) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp dfa5e266-7b86-4523-8f57-513917417d19)
+      (tstamp 4b4a484a-612d-4bd7-894e-b677a359118c)
     )
-    (fp_text value "MountingHole" (at 0 3.2) (layer "F.Fab") hide
+    (fp_text value "MountingHole" (at 0 3.2 90) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp e25ad278-809a-41fb-95d3-864a63cd5a38)
+      (tstamp 42ea48e3-7bed-40b5-a925-760ff27aad8f)
     )
-    (fp_text user "${REFERENCE}" (at 0.3 0) (layer "F.Fab") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 747c1284-b652-4a9e-8576-20d8e714d2c6)
-    )
-    (fp_circle (center 0 0) (end 2.2 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp ff548879-c8c5-47e2-a8db-ee037e25d04e))
-    (fp_circle (center 0 0) (end 2.45 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 2fb5abc8-618e-485e-ae49-b2424e8bbc13))
-    (pad "" np_thru_hole circle locked (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask) (tstamp 91d3db6f-3aac-4692-9125-8b7afec38d1f))
+    (fp_line (start -1.2 2.15) (end 1.2 2.15) (layer "Edge.Cuts") (width 0.1) (tstamp 05428402-5145-40be-889f-007883f271de))
+    (fp_line (start 1.2 2.15) (end 2.4 0) (layer "Edge.Cuts") (width 0.1) (tstamp 14f76d3b-aba2-4e6e-a417-a23e0de5d2eb))
+    (fp_line (start -2.4 0) (end -1.2 2.15) (layer "Edge.Cuts") (width 0.1) (tstamp 338f7861-d5de-4cdc-a6fe-b79122198957))
+    (fp_line (start 1.2 -2.15) (end -1.2 -2.15) (layer "Edge.Cuts") (width 0.1) (tstamp 47726bc0-43be-4b91-acab-8a911dd58ea4))
+    (fp_line (start 2.4 0) (end 1.2 -2.15) (layer "Edge.Cuts") (width 0.1) (tstamp 8b950ea4-058e-4824-bec9-3e76c0bc0454))
+    (fp_line (start -1.2 -2.15) (end -2.4 0) (layer "Edge.Cuts") (width 0.1) (tstamp dcf76031-1434-4d51-8ba7-437ce568fecc))
   )
 
   (footprint "kbd_SW_Hole:SW_Hole_1u" (layer "F.Cu")
@@ -764,7 +736,6 @@
     (at 207.16875 130.96875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/b12d0e5a-0336-4258-9466-74a7416721ff")
     (attr through_hole)
     (fp_text reference "SW31" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -789,7 +760,6 @@
     (at 226.21875 130.96875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/47a273ef-663a-4e9b-8278-cfe5dbde47b6")
     (attr through_hole)
     (fp_text reference "SW32" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -814,7 +784,6 @@
     (at 97.63125 92.86875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/f2c71871-836d-493d-97ca-9ecc25d8c3ed")
     (attr through_hole)
     (fp_text reference "SW1" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -839,7 +808,6 @@
     (at 192.88125 92.86875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/b18234e3-4dc4-4978-b0d8-e1c3729b9563")
     (attr through_hole)
     (fp_text reference "SW6" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -864,7 +832,6 @@
     (at 288.13125 92.86875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/e578583c-f311-46d7-b4c7-22075445ff9f")
     (attr through_hole)
     (fp_text reference "SW11" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -889,7 +856,6 @@
     (at 326.23125 150.01875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/9fc72ea4-e792-4b84-8ce2-e328ab2fa617")
     (attr through_hole)
     (fp_text reference "SW47" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -914,7 +880,6 @@
     (at 140.49375 111.91875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/72f8edcc-6766-47ee-abe2-8994f637e865")
     (attr through_hole)
     (fp_text reference "SW16" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -934,30 +899,29 @@
     (fp_line (start 9.525 -9.525) (end -9.525 -9.525) (layer "F.Fab") (width 0.15) (tstamp 7e31f29a-9741-4c97-ba3b-a70a051b472a))
   )
 
-  (footprint "kbd_Hole:m2_Screw_Hole" (layer "F.Cu")
-    (tedit 5CAF8CEE) (tstamp ad85f1fd-70a8-40bb-8024-aa3aa88a72d0)
-    (at 339 155.7)
+  (footprint "kbd_Hole:m2_Spacer_Hole_hex" (layer "F.Cu")
+    (tedit 5F216F4B) (tstamp ad85f1fd-70a8-40bb-8024-aa3aa88a72d0)
+    (at 339 155.7 90)
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
-    (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
+    (property "Sheetfile" "Water47_Top.kicad_sch")
     (property "Sheetname" "")
     (path "/caa5335b-ab47-478f-b510-96296c076797")
     (attr exclude_from_pos_files)
-    (fp_text reference "H4" (at 0 -3.2) (layer "F.Fab") hide
+    (fp_text reference "H4" (at 0 -3.2 90) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp c68da60e-43c5-428a-86cf-c5e6780e400c)
+      (tstamp c34238a6-84f5-40f3-aed6-70c0889adfd6)
     )
-    (fp_text value "MountingHole" (at 0 3.2) (layer "F.Fab") hide
+    (fp_text value "MountingHole" (at 0 3.2 90) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp dcd2ac78-54b3-42f5-97d8-dfffa6536367)
+      (tstamp e04fea3f-5044-47f8-854e-a7d4c413632f)
     )
-    (fp_text user "${REFERENCE}" (at 0.3 0) (layer "F.Fab") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 0639c710-81a5-4ee1-ba59-cf3d336403f4)
-    )
-    (fp_circle (center 0 0) (end 2.2 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp 3d8e5713-4223-43ab-889a-06e4de6bcb96))
-    (fp_circle (center 0 0) (end 2.45 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 275f2eb1-15c6-4c55-94cd-559c6bd80f81))
-    (pad "" np_thru_hole circle locked (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask) (tstamp 7257cf11-4935-4936-9592-1c12177b5014))
+    (fp_line (start 2.4 0) (end 1.2 -2.15) (layer "Edge.Cuts") (width 0.1) (tstamp 2b5ba0a3-41ae-4717-accf-a676a75c27d3))
+    (fp_line (start -1.2 -2.15) (end -2.4 0) (layer "Edge.Cuts") (width 0.1) (tstamp 3a2d09ac-5521-4d9c-a8d8-8d8a0ca1197b))
+    (fp_line (start -2.4 0) (end -1.2 2.15) (layer "Edge.Cuts") (width 0.1) (tstamp 5880aa71-6fd9-4811-91a3-df6bdb089439))
+    (fp_line (start 1.2 -2.15) (end -1.2 -2.15) (layer "Edge.Cuts") (width 0.1) (tstamp 8cdb7ecf-c8c4-44e0-8605-3842cf1d2ed1))
+    (fp_line (start 1.2 2.15) (end 2.4 0) (layer "Edge.Cuts") (width 0.1) (tstamp e8dfe7a9-5529-4bd7-867b-05d0d95321fb))
+    (fp_line (start -1.2 2.15) (end 1.2 2.15) (layer "Edge.Cuts") (width 0.1) (tstamp eab4741d-f0ba-49da-a93b-23bf4edd8b40))
   )
 
   (footprint "kbd_SW_Hole:SW_Hole_1u" (layer "F.Cu")
@@ -965,7 +929,6 @@
     (at 197.64375 111.91875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/ece15829-4da9-4eec-9c9a-d5e86802ad56")
     (attr through_hole)
     (fp_text reference "SW19" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -990,7 +953,6 @@
     (at 100.0125 150.01875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/d2576709-7e75-4c72-8de7-bf9f9585d9af")
     (attr through_hole)
     (fp_text reference "SW38" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1015,7 +977,6 @@
     (at 130.96875 130.96875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/fe8c4fe2-3371-40f7-8275-d03c885361c7")
     (attr through_hole)
     (fp_text reference "SW27" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1040,7 +1001,6 @@
     (at 169.06875 130.96875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/cea34e74-a523-484c-8c7d-d071c99063e7")
     (attr through_hole)
     (fp_text reference "SW29" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1065,7 +1025,6 @@
     (at 292.89375 111.91875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/94c7b7d7-4ccc-4ee8-8b1a-2da104d4d6a6")
     (attr through_hole)
     (fp_text reference "SW24" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1090,7 +1049,6 @@
     (at 188.11875 130.96875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/a3a05305-e139-4406-99dc-f44747b64f1f")
     (attr through_hole)
     (fp_text reference "SW30" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1110,30 +1068,29 @@
     (fp_line (start 9.525 -9.525) (end -9.525 -9.525) (layer "F.Fab") (width 0.15) (tstamp e5e530ed-589c-4082-8035-cda874fd3a64))
   )
 
-  (footprint "kbd_Hole:m2_Screw_Hole" (layer "F.Cu")
-    (tedit 5CAF8CEE) (tstamp cb414bf4-438e-4ce8-89f8-726e728a19fc)
-    (at 339 87.2)
+  (footprint "kbd_Hole:m2_Spacer_Hole_hex" (layer "F.Cu")
+    (tedit 5F216F4B) (tstamp cb414bf4-438e-4ce8-89f8-726e728a19fc)
+    (at 339 87.2 90)
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
-    (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
+    (property "Sheetfile" "Water47_Top.kicad_sch")
     (property "Sheetname" "")
     (path "/f64ccafc-8d73-4e0d-a0a9-52c38f87dc6c")
     (attr exclude_from_pos_files)
-    (fp_text reference "H3" (at 0 -3.2) (layer "F.Fab")
+    (fp_text reference "H3" (at 0 -3.2 90) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp a20573bb-c816-4501-8c7a-87b157a69f1e)
+      (tstamp b56466a2-a0a6-4cbc-8b87-8f17230f5956)
     )
-    (fp_text value "MountingHole" (at 0 3.2) (layer "F.Fab")
+    (fp_text value "MountingHole" (at 0 3.2 90) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp ceed7e05-a215-4ac4-abb1-68a93737959a)
+      (tstamp 679110c6-6383-4215-a6bc-a7cf96bacb72)
     )
-    (fp_text user "${REFERENCE}" (at 0.3 0) (layer "F.Fab") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 82edc5b5-ccae-4442-9a6c-7320cddf739a)
-    )
-    (fp_circle (center 0 0) (end 2.2 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp c7b90c38-ab17-47da-bf6c-027a2ff25ebd))
-    (fp_circle (center 0 0) (end 2.45 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 50305475-f223-49e4-9da4-cb3923e01708))
-    (pad "" np_thru_hole circle locked (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask) (tstamp c6afb45d-ea2c-40b2-a80e-6f1ea2551a97))
+    (fp_line (start -1.2 2.15) (end 1.2 2.15) (layer "Edge.Cuts") (width 0.1) (tstamp 00193cd4-61f3-4591-9073-9df0197c3010))
+    (fp_line (start -1.2 -2.15) (end -2.4 0) (layer "Edge.Cuts") (width 0.1) (tstamp 1b7d3e3c-a484-4709-a120-0a99dece349e))
+    (fp_line (start 1.2 -2.15) (end -1.2 -2.15) (layer "Edge.Cuts") (width 0.1) (tstamp 49db0d0b-5284-4080-b9b9-653c94d7627f))
+    (fp_line (start -2.4 0) (end -1.2 2.15) (layer "Edge.Cuts") (width 0.1) (tstamp 4a94ffa7-9a4b-4eb7-9dab-4200a2af33b1))
+    (fp_line (start 1.2 2.15) (end 2.4 0) (layer "Edge.Cuts") (width 0.1) (tstamp 848048f3-8d23-4df4-93c1-4105b0d3d2f1))
+    (fp_line (start 2.4 0) (end 1.2 -2.15) (layer "Edge.Cuts") (width 0.1) (tstamp d563aac7-08f2-4fb6-93e3-44a47e563812))
   )
 
   (footprint "kbd_SW_Hole:SW_Hole_1u" (layer "F.Cu")
@@ -1141,7 +1098,6 @@
     (at 269.08125 92.86875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/36f18998-0f51-4200-a0f1-e6a11f8627f3")
     (attr through_hole)
     (fp_text reference "SW10" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1166,7 +1122,6 @@
     (at 159.54375 111.91875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/bc4e03c1-8e06-49cb-9214-4518ea29d07b")
     (attr through_hole)
     (fp_text reference "SW17" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1191,7 +1146,6 @@
     (at 121.44375 111.91875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/0e9d0a23-e9af-418c-b341-f7ed5700274f")
     (attr through_hole)
     (fp_text reference "SW15" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1216,7 +1170,6 @@
     (at 178.59375 111.91875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/f743a2bc-a505-4872-a383-d428518e4d04")
     (attr through_hole)
     (fp_text reference "SW18" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1241,7 +1194,6 @@
     (at 230.98125 92.86875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/8cab667f-3e77-44b3-895d-328c671b8033")
     (attr through_hole)
     (fp_text reference "SW8" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1266,7 +1218,6 @@
     (at 173.83125 92.86875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/d9ffbd44-43a3-4b70-b2c3-e172305fe8d5")
     (attr through_hole)
     (fp_text reference "SW5" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1291,7 +1242,6 @@
     (at 254.79375 111.91875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/74b3ef12-ffa6-4be1-b29f-0bff3a46dc8f")
     (attr through_hole)
     (fp_text reference "SW22" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1316,7 +1266,6 @@
     (at 238.125 150.01875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/7f68f2f9-1a40-4e2d-bda1-32170086ae6f")
     (attr through_hole)
     (fp_text reference "SW43" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1341,7 +1290,6 @@
     (at 100.0125 111.91875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
-    (path "/a404e61b-6a2f-4c3a-9bf4-a90083faff18")
     (attr through_hole)
     (fp_text reference "SW14" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
