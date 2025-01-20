@@ -589,7 +589,7 @@
   )
 
   (symbol (lib_id "MOUDLE-SEEEDUINO-XIAO:MOUDLE-SEEEDUINO-XIAO") (at 73.66 38.1 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board no) (fields_autoplaced)
     (uuid d703529e-35b6-4856-b4e1-4ebcffe81b73)
     (property "Reference" "U1" (id 0) (at 74.93 20.32 0)
       (effects (font (size 1.27 1.27)) hide)

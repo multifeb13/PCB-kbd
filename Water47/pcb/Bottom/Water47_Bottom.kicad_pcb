@@ -105,7 +105,7 @@
     (property "Sheetname" "")
     (property "Value_1" "MOUDLE-SEEEDUINO-XIAO")
     (path "/d703529e-35b6-4856-b4e1-4ebcffe81b73")
-    (attr smd exclude_from_pos_files)
+    (attr smd board_only exclude_from_pos_files)
     (fp_text reference "U1" (at 0 -2.25) (layer "F.SilkS") hide
       (effects (font (size 0.889 0.889) (thickness 0.1016)))
       (tstamp 22ac185e-11d8-4e17-8818-3e0612833ad5)
