@@ -409,6 +409,23 @@
     )
   )
 
+  (symbol (lib_id "Mechanical:MountingHole") (at 22.86 91.44 0) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid 041a22fb-bd25-45a3-b2de-1d6f113e8c70)
+    (property "Reference" "H5" (id 0) (at 25.4 90.1699 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "MountingHole" (id 1) (at 25.4 92.7099 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "kbd_Hole:m2_Screw_Hole" (id 2) (at 22.86 91.44 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 22.86 91.44 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+  )
+
   (symbol (lib_id "power:+5V") (at 102.87 27.94 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1769195a-3263-4c8d-b955-a2d151efff10)
@@ -522,6 +539,23 @@
     (pin "1" (uuid e25431d3-2e60-41ea-b270-8e98dd23ae68))
   )
 
+  (symbol (lib_id "Mechanical:MountingHole") (at 217.17 88.9 0) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid 5baf0ae5-116d-4142-b157-7cb2ebe3f02d)
+    (property "Reference" "H6" (id 0) (at 219.71 87.6299 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "MountingHole" (id 1) (at 219.71 90.1699 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "kbd_Hole:m2_Screw_Hole" (id 2) (at 217.17 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 217.17 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+  )
+
   (symbol (lib_id "power:PWR_FLAG") (at 153.67 40.64 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 6194f6e5-f28e-49e4-b44a-7f71c33d5eb7)
@@ -557,7 +591,7 @@
   (symbol (lib_id "Mechanical:MountingHole") (at 29.21 218.44 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bbde9b31-2ca1-42cc-a23f-bd08fc375c76)
-    (property "Reference" "H2" (id 0) (at 31.75 217.1699 0)
+    (property "Reference" "H3" (id 0) (at 31.75 217.1699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole" (id 1) (at 31.75 219.7099 0)
@@ -646,7 +680,7 @@
   (symbol (lib_id "Mechanical:MountingHole") (at 217.17 63.5 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f64ccafc-8d73-4e0d-a0a9-52c38f87dc6c)
-    (property "Reference" "H3" (id 0) (at 219.71 62.2299 0)
+    (property "Reference" "H2" (id 0) (at 219.71 62.2299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole" (id 1) (at 219.71 64.7699 0)
@@ -695,14 +729,20 @@
     (path "/17fe6c74-7093-4ce3-b0e5-cd6b76f5155b"
       (reference "H1") (unit 1) (value "MountingHole") (footprint "kbd_Hole:m2_Screw_Hole")
     )
-    (path "/bbde9b31-2ca1-42cc-a23f-bd08fc375c76"
+    (path "/f64ccafc-8d73-4e0d-a0a9-52c38f87dc6c"
       (reference "H2") (unit 1) (value "MountingHole") (footprint "kbd_Hole:m2_Screw_Hole")
     )
-    (path "/f64ccafc-8d73-4e0d-a0a9-52c38f87dc6c"
+    (path "/bbde9b31-2ca1-42cc-a23f-bd08fc375c76"
       (reference "H3") (unit 1) (value "MountingHole") (footprint "kbd_Hole:m2_Screw_Hole")
     )
     (path "/caa5335b-ab47-478f-b510-96296c076797"
       (reference "H4") (unit 1) (value "MountingHole") (footprint "kbd_Hole:m2_Screw_Hole")
+    )
+    (path "/041a22fb-bd25-45a3-b2de-1d6f113e8c70"
+      (reference "H5") (unit 1) (value "MountingHole") (footprint "kbd_Hole:m2_Screw_Hole")
+    )
+    (path "/5baf0ae5-116d-4142-b157-7cb2ebe3f02d"
+      (reference "H6") (unit 1) (value "MountingHole") (footprint "kbd_Hole:m2_Screw_Hole")
     )
     (path "/d703529e-35b6-4856-b4e1-4ebcffe81b73"
       (reference "U1") (unit 1) (value "MOUDLE-SEEEDUINO-XIAO") (footprint "kbd_Parts:Micon_XIAO_TH")
