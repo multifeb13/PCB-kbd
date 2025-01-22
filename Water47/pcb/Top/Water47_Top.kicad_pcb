@@ -419,15 +419,15 @@
 
   (footprint "kbd_SW_Hole:SW_Hole_1u" (layer "F.Cu")
     (tedit 60F58A59) (tstamp 408d1df8-0be3-4e2d-b88d-bd06abc5a18e)
-    (at 326.23125 92.86875 180)
+    (at 326.23125 92.86875)
     (property "Sheetfile" "Water47_PCB_Layer.kicad_sch")
     (property "Sheetname" "")
     (attr through_hole)
-    (fp_text reference "SW13" (at 7 8.1 180) (layer "F.SilkS") hide
+    (fp_text reference "SW13" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp bda793de-c320-443c-9089-7fd36877580a)
     )
-    (fp_text value "Del" (at -7.4 -8.1 180) (layer "F.Fab") hide
+    (fp_text value "Del" (at -7.4 -8.1) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a96f29f7-af71-41fa-bf63-80128d6d3449)
     )
