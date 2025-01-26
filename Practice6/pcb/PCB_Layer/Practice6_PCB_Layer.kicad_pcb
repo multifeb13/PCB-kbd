@@ -75,7 +75,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "../../gerber/PCB_Layer/")
+      (outputdirectory "../../gerber/02PCB/")
     )
   )
 
