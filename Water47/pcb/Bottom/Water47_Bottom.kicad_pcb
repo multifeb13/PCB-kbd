@@ -345,7 +345,7 @@
     (tedit 0) (tstamp 97380318-2ad1-4c53-a572-098fd4f4a83e)
     (at 212 121.45 180)
     (attr board_only exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "G***" (at 0 0) (layer "B.SilkS")
+    (fp_text reference "G***" (at 0 0) (layer "B.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.3)) (justify mirror))
       (tstamp 2fc0fd57-57f8-4c80-a696-211bed634929)
     )
@@ -5061,7 +5061,7 @@
   (gr_arc (start 315 83.2) (mid 316.414214 83.785786) (end 317 85.2) (layer "Edge.Cuts") (width 0.1) (tstamp b290013d-b66d-41c4-87f8-d6691d779aca))
   (gr_arc (start 319 106.985786) (mid 317.585786 106.4) (end 317 104.985786) (layer "Edge.Cuts") (width 0.1) (tstamp e3405c16-40f7-4d43-ab37-29574b0e5419))
   (gr_arc (start 84 159.7) (mid 82.585786 159.114214) (end 82 157.7) (layer "Edge.Cuts") (width 0.1) (tstamp e86e5bfd-7add-4eec-9a66-cb982fdef1d2))
-  (gr_text "Water47 ver1.0 @Bottom Designed by multifeb13" (at 339 153 90) (layer "F.SilkS") (tstamp ea5823db-c85f-4a54-be2a-f82cf3d35419)
+  (gr_text "Water47 ver1.1 @Bottom Designed by multifeb13" (at 339 153 90) (layer "F.SilkS") (tstamp ea5823db-c85f-4a54-be2a-f82cf3d35419)
     (effects (font (size 1 1) (thickness 0.125)) (justify left))
   )
   (dimension (type aligned) (layer "Cmts.User") (tstamp 257daf05-7cdd-4aaf-bd58-18209eebc600)
